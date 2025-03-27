@@ -26,8 +26,8 @@ project/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://your-repo-url.git
-   cd your-repo-directory
+   git clone https://github.com/Shivang-stack/EventManagementAPIs
+   cd EventManagementAPIs
    ```
 
 2. **Create a Virtual Environment:**
